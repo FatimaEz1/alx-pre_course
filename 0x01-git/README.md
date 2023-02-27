@@ -1,1 +1,1 @@
-hello git
+first time to learn well about git
